@@ -7,7 +7,7 @@ go get -u github.com/projekt-go/dashmap
 ```
 
 ## Usage
-use it like a normal map, but it's safe also for concurrent usage.
+use it like a normal map, but it's also safe for concurrent usage.
 ```go
 mp := dashmap.New[string, int]()
 
