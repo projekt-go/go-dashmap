@@ -1,5 +1,5 @@
 # go-dashmap
-Simple generic concurrent thread-safe hash map for Go
+Simple generic thread-safe hash map for Go
 
 ## Installation
 ```
